@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("vishal");
+    printf("%.2f",1.2);
 
     return 0;
 }

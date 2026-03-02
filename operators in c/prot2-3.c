@@ -2,7 +2,9 @@
 
 int main()
 {
-    printf("vishal");
+    float a=1.0;
+    printf("%.2f",a);
 
     return 0;
 }
+

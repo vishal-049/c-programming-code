@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("vishal");
+    printf("%d",10);
 
     return 0;
 }

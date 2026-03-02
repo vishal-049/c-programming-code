@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("vishal");
+    printf("age:20");
 
     return 0;
 }
