@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+    char a;
+    scanf("%c", &a);
+
+    if (a>=48 && a<=57)
+    
+
+    printf("digit");
+    else
+    printf("not digit");
+
+    return 0;
+}
